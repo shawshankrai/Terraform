@@ -1,0 +1,32 @@
+<!-- BEGIN_TF_DOCS -->
+## Requirements
+
+| Name | Version |
+|------|---------|
+| <a name="requirement_google"></a> [google](#requirement\_google) | 4.59.0 |
+
+## Providers
+
+| Name | Version |
+|------|---------|
+| <a name="provider_google"></a> [google](#provider\_google) | 4.59.0 |
+
+## Modules
+
+No modules.
+
+## Resources
+
+| Name | Type |
+|------|------|
+| [google_storage_bucket.storage_bucket](https://registry.terraform.io/providers/hashicorp/google/4.59.0/docs/resources/storage_bucket) | resource |
+| [google_storage_bucket_object.upload_picture](https://registry.terraform.io/providers/hashicorp/google/4.59.0/docs/resources/storage_bucket_object) | resource |
+
+## Inputs
+
+No inputs.
+
+## Outputs
+
+No outputs.
+<!-- END_TF_DOCS -->
