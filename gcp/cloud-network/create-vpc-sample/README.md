@@ -20,6 +20,7 @@ No modules.
 | Name | Type |
 |------|------|
 | [google_compute_firewall.allow-icmp](https://registry.terraform.io/providers/hashicorp/google/4.59.0/docs/resources/compute_firewall) | resource |
+| [google_compute_firewall.allow-ssh](https://registry.terraform.io/providers/hashicorp/google/4.59.0/docs/resources/compute_firewall) | resource |
 | [google_compute_network.auto-vpc](https://registry.terraform.io/providers/hashicorp/google/4.59.0/docs/resources/compute_network) | resource |
 | [google_compute_network.custom-vpc](https://registry.terraform.io/providers/hashicorp/google/4.59.0/docs/resources/compute_network) | resource |
 | [google_compute_subnetwork.subnetwork-us-one](https://registry.terraform.io/providers/hashicorp/google/4.59.0/docs/resources/compute_subnetwork) | resource |
